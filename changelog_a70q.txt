@@ -8,3 +8,11 @@ Device maintainer: Haky86
 ====================
 
 * Initial release.
+
+====================
+     02-20-2023
+====================
+
+* Switch audio to aosp configs, needed to fix bluetooth headset.
+* Fix USB Hotplug.
+* Credits: rtd1250.
