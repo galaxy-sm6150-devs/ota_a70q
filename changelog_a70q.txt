@@ -16,3 +16,13 @@ Device maintainer: Haky86
 * Switch audio to aosp configs, needed to fix bluetooth headset.
 * Fix USB Hotplug.
 * Credits: rtd1250.
+
+====================
+     04-3-2023
+====================
+
+* Fix YouTube playbacks using 60fps and lags.
+* Fix VoIP calls (I didn't tested it due to have VoIP applications on my main phone).
+* Improve WiFi and fix random disconnections.
+* Security Patches: March 2023.
+* Sync crDroid source with the latest changes.
