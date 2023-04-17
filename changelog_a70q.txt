@@ -26,3 +26,10 @@ Device maintainer: Haky86
 * Improve WiFi and fix random disconnections.
 * Security Patches: March 2023.
 * Sync crDroid source with the latest changes.
+
+====================
+     04-17-2023
+====================
+
+* Security Patches: April 2023.
+* Sync crDroid source with the latest changes.
